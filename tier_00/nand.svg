@@ -9,7 +9,7 @@
    id="svg1632"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
    sodipodi:docname="nand.svg"
-   inkscape:export-filename="/home/magiwanders/OneDrive/MusicEngineering/thesis_simoneshawncazzaniga/drawings/00/nand.png"
+   inkscape:export-filename="/home/magiwanders/OneDrive/MusicEngineering/thesis_simoneshawncazzaniga/nand_logic_svg_files/tier_00/nand_labeled.png"
    inkscape:export-xdpi="3545.7759"
    inkscape:export-ydpi="3545.7759"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -26,9 +26,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="10.362402"
-     inkscape:cx="32.473166"
-     inkscape:cy="-1.3992895"
+     inkscape:zoom="5.181201"
+     inkscape:cx="60.700212"
+     inkscape:cy="-3.1845898"
      inkscape:window-width="1920"
      inkscape:window-height="1020"
      inkscape:window-x="0"
@@ -83,5 +83,38 @@
            id="path6166-3" />
       </g>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.14866px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0287166"
+       x="1.5640382"
+       y="6.3609405"
+       id="text14052-3"><tspan
+         sodipodi:role="line"
+         id="tspan14050-6"
+         style="stroke-width:0.0287166"
+         x="1.5640382"
+         y="6.3609405">b</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.14866px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0287166"
+       x="1.6150774"
+       y="2.8521404"
+       id="text14052"><tspan
+         sodipodi:role="line"
+         id="tspan14050"
+         style="stroke-width:0.0287166"
+         x="1.6150774"
+         y="2.8521404">a</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.14866px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0287166"
+       x="16.647457"
+       y="4.5855737"
+       id="text14052-3-7"><tspan
+         sodipodi:role="line"
+         id="tspan14050-6-5"
+         style="stroke-width:0.0287166"
+         x="16.647457"
+         y="4.5855737">out</tspan></text>
   </g>
 </svg>
